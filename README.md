@@ -1,5 +1,5 @@
 # Sector Planet to 100
-<b>Stellaris mod<b>
+<b>Stellaris mod</b>
 
 * Mod : GamePlay
 * Gamer : Not for begginner
