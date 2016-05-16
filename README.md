@@ -14,4 +14,4 @@
 
 ## LICENSE
 
-[GNU GENERAL PUBLIC LICENSE V2](LICENSE)
+[Apache License Version 2.0](LICENSE)
