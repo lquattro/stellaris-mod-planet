@@ -9,7 +9,7 @@
 ## SCREENSHOT
 
 ![Screenshot](sector_planet_100_screenshot.png)
-![Screenshot2](sector_planet_100_screenshot2.png)
+![Screenshot2](sector_planet_100_screenshot2.jpg)
 
 ---
 
