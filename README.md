@@ -6,8 +6,8 @@ the source code for this mods :
 ## Summary
 
 * [Advanced Sector Planet](#advanced-sector-planet)
-* [Metal_Color](#metal-color)
-* [Micro_System](#micro-system)
+* [Metal Color](#metal-color)
+* [Micro System](#micro-system)
 * [SECTOR_PLANET_TO_50](#sector_planet_to_50)
 * [SECTOR_PLANET_TO_100](#sector_planet_to_100)
 
@@ -33,6 +33,12 @@ Not cool...
 
 ## Metal Color
 
+<b>EN :</b> Add 5 metal colors
+<br><b>NOT Compatible with other mod : colors</b>
+
+<b>FR :</b> Ajoute 5 couleurs métalliques
+<br><b>PAS Compatible avec d'autre mod : couleurs</b>
+
 ### STATS
 
 * Mod : Utilities
@@ -44,6 +50,14 @@ Not cool...
 <br>
 
 ## Micro System
+
+<b>EN :</b> This little mod add Micro System (100 stars) and Baby System (50 stars).
+<br>Use for a very fast game.
+<br><b>Compatible with other mod : size of the galaxy</b>
+
+<b>FR :</b> Ce petit mode ajoute Micro Système(100 étoiles) et Baby Système (50 étoiles).
+<br>A utiliser pour les parties très rapides.
+<br><b>Compatible avec d'autre mod : taille de la galaxie</b>
 
 ### STATS
 
@@ -59,6 +73,12 @@ Not cool...
 
 ## SECTOR_PLANET_TO_50
 
+<b>EN :</b> This little mod changes the gameplay by enlarging the total number of planets from 5 to 50.
+<br><i>This mod is not recommended for new player (it breaks the game mechanics sectors).</i>
+
+<b>FR :</b> Ce petit mode change le gameplay en élargissant le nombre total de planète de 5 à 50.
+<br><i>Ce mode n'est pas recommandé pour les nouveaux joueurs (il casse un peu la mécanique de secteur du jeu).</i>
+
 ### STATS
 
 * Mod : GamePlay
@@ -70,6 +90,12 @@ Not cool...
 <br>
 
 ## SECTOR_PLANET_TO_100
+
+<b>EN :</b> This little mod changes the gameplay by enlarging the total number of planets from 5 to 100.
+<br><i>This mod is not recommended for new player (it breaks the game mechanics sectors).</i>
+
+<b>FR :</b> Ce petit mode change le gameplay en élargissant le nombre total de planète de 5 à 100.
+<br><i>Ce mode
 
 ### STATS
 
