@@ -5,9 +5,9 @@ the source code for this mods :
 
 ## Summary
 
-* [Advanced Sector Planet](#advanced_sector_planet)
-* [Metal_Color](#metal_color)
-* [Micro_System](#micro_system)
+* [Advanced Sector Planet](#advanced-sector-planet)
+* [Metal_Color](#metal-color)
+* [Micro_System](#micro-system)
 * [SECTOR_PLANET_TO_50](#sector_planet_to_50)
 * [SECTOR_PLANET_TO_100](#sector_planet_to_100)
 
