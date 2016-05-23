@@ -1,15 +1,14 @@
-# Sector Planet to 100
-<b>Stellaris mod</b>
+# Stellaris Mod
 
-## STATS
+You can retrieve here in OpenSource Apache Licence V2.0,
+the source code for this mods :
 
-* Mod : GamePlay
-* Gamer : Not for begginner
-
-## SCREENSHOT
-
-![Screenshot](sector_planet_100_screenshot.png)
-![Screenshot2](sector_planet_100_screenshot2.jpg)
+* [Advanced Sector Planet](README_ASP.md)
+* [Metal_Color](README_MC.md)
+* [Metal_Color](README_MC.md)
+* [Micro_System](README_MS.md)
+* [SECTOR_PLANET_TO_50](README_SP50.md)
+* [SECTOR_PLANET_TO_100](README_SP100.md)
 
 ---
 
