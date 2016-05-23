@@ -28,58 +28,58 @@ Not cool...
 
 ### SCREENSHOT
 
-![Screenshot](sector_planet_dev.jpg =168x105)
+![Screenshot](sector_planet_dev.jpg)
 <br>
 
 ## Metal Color
 
-## STATS
+### STATS
 
 * Mod : Utilities
 <i>Replace color file</i>
 
-## SCREENSHOT
+### SCREENSHOT
 
 ![Screenshot](metal_color/metal_color.png)
 <br>
 
 ## Micro System
 
-## STATS
+### STATS
 
 * Mod : GamePlay
 * Gamer : Very fast game
 
-## SCREENSHOT
+### SCREENSHOT
 
-![Screenshot1](micro_system_select_screenshot.jpg =168x105)
-![Screenshot2](baby_system_screenshot.jpg =168x105)
-![Screenshot3](micro_system_screenshot.jpg =168x105)
+![Screenshot1](micro_system_select_screenshot.jpg)
+![Screenshot2](baby_system_screenshot.jpg)
+![Screenshot3](micro_system_screenshot.jpg)
 <br>
 
 ## SECTOR_PLANET_TO_50
 
-## STATS
+### STATS
 
 * Mod : GamePlay
 * Gamer : Not for begginner
 
-## SCREENSHOT
+### SCREENSHOT
 
-![Screenshot](sector_planet_50_screenshot.png =168x105)
+![Screenshot](sector_planet_50_screenshot.png)
 <br>
 
 ## SECTOR_PLANET_TO_100
 
-## STATS
+### STATS
 
 * Mod : GamePlay
 * Gamer : Not for begginner
 
-## SCREENSHOT
+### SCREENSHOT
 
-![Screenshot1](sector_planet_100_screenshot.png =168x105)
-![Screenshot2](sector_planet_100_screenshot2.jpg =168x105)
+![Screenshot1](sector_planet_100_screenshot.png)
+![Screenshot2](sector_planet_100_screenshot2.jpg)
 
 ---
 
