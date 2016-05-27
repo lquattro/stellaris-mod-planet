@@ -95,7 +95,7 @@ Not cool...
 <br><i>This mod is not recommended for new player (it breaks the game mechanics sectors).</i>
 
 <b>FR :</b> Ce petit mode change le gameplay en élargissant le nombre total de planète de 5 à 100.
-<br><i>Ce mode
+<br><i>Ce mode n'est pas recommandé pour les nouveaux joueurs (il casse un peu la mécanique de secteur du jeu).</i>
 
 ### STATS
 
