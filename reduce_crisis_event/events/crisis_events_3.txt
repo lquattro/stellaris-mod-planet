@@ -1,10 +1,14 @@
-############################
+##################################
 #
 # Crisis Events III
 #
 # Written by Henrik Eklund
 #
-############################
+# Updated Mod by Scuriva Elquattro
+#
+# - Add Event crisis.2205.z (75%)
+#
+##################################
 
 namespace = crisis
 
@@ -2087,9 +2091,31 @@ planet_event = {
 	}
 	
 	immediate = {
-		destroy_fleet = spaceport
-		set_planet_flag = synth_activity
+		random_list = {
+			25 = {
+				destroy_fleet = spaceport
+				set_planet_flag = synth_activity
+			}
+			75 = {
+				planet_event = { id = crisis.2205.z }
+			}
+		}
 	}
+	
+	option = {
+		name = crisis.2205.a
+	}
+}
+
+# Counter Terrorist IA
+planet_event = {
+	id = crisis.2205.z
+	title = "Counter Terrorist IA explosion" #crisis.2205.z.name
+	desc = "Bomb has been defused !" #crisis.2205.z.desc
+	picture = GFX_evt_physics_research
+	show_sound = event_alien_nature
+	
+	is_triggered_only = yes
 	
 	option = {
 		name = crisis.2205.a
