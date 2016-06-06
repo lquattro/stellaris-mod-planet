@@ -1,0 +1,10 @@
+﻿l_german:
+ crisis.2215.name:0 "Tentative de sabordage du spatioport"
+ crisis.2215.desc:0 "Le spatioport en orbite autour de [Root.GetName] subit actuellement une tentative de sabordage ! \n\nNos espions signals que plusieurs membres du personnel sont à l'origine du sabordage en cours."
+ crisis.2215.a:0 "Envoyez l'équipe de contre-terroristes !"
+ crisis.2225.name:0 "Succès des contre-terroristes !"
+ crisis.2225.desc:0 "Le spatioport en orbite autour de [Root.GetName] a eu une tentative de sabordage ! Les contre-terroristes ont déjoués la tentative.\n\nUne enquête est en cours, mais il semble que plusieurs membres de son personnel, y compris l'ingénieur en chef, aient été remplacés par des infiltrateurs synthétiques.\n\nC'est ainsi qu'ils ont dû réussir à s'approcher des générateurs d'énergie du spatioport avec une bombe. \n\nHeureusement les contre-terroristes de [Root.GetName] sont intervenus et ont reussi à stopper les infiltrés."
+ crisis.2225.a:0 "Bien joué les contre-terroristes !"
+ crisis.2235.name:0 "Echec des contre-terroristes !"
+ crisis.2235.desc:0 "Le spatioport en orbite autour de [Root.GetName] a été sabordé ! Une enquête est en cours, mais il semble que plusieurs membres de son personnel, y compris l'ingénieur en chef, aient été remplacés par des infiltrateurs synthétiques.\n\nC'est ainsi qu'ils ont réussit à poser une bombe sur les générateurs du spatioport. La plupart des membres d'équipage de la station ont réussi à être évacué et rejoindre la surface de [Root.GetName] avant qu'elle ne soit détruite, mais les pertes matérielles sont importantes."
+ crisis.2235.a:0 "C'est dommage... il n'y a pas eu de perte civil, c'est déjà ça !"

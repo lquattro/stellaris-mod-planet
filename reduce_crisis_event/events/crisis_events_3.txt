@@ -2068,10 +2068,10 @@ planet_event = {
 # Spaceport Scuttled
 planet_event = {
 	id = crisis.2205
-	title = "crisis.2205.name"
-	desc = "crisis.2205.desc"
-	picture = GFX_evt_exploding_ship
-	show_sound = event_ship_explosion
+	title = "crisis.2215.name"
+	desc = "crisis.2215.desc"
+	picture = GFX_evt_ground_combat
+	show_sound = event_ground_battle
 	location = ROOT
 	
 	trigger = {
@@ -2090,35 +2090,51 @@ planet_event = {
 		months = 420
 	}
 	
-	immediate = {
+	option = {
+		name = crisis.2215.a
 		random_list = {
-			25 = {
-				destroy_fleet = spaceport
-				set_planet_flag = synth_activity
+			35 = {
+				planet_event = { id = crisis.2235 } # Failed
 			}
-			75 = {
-				planet_event = { id = crisis.2205.z }
+			65 = {
+				planet_event = { id = crisis.2225 } # Success
 			}
 		}
 	}
-	
-	option = {
-		name = crisis.2205.a
-	}
 }
 
-# Counter Terrorist IA
+# Success Counter Terrorist IA
 planet_event = {
-	id = crisis.2205.z
-	title = "Counter Terrorist IA explosion" #crisis.2205.z.name
-	desc = "Bomb has been defused !" #crisis.2205.z.desc
+	id = crisis.2225
+	title = crisis.2225.name
+	desc = crisis.2225.desc
 	picture = GFX_evt_physics_research
 	show_sound = event_alien_nature
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = crisis.2205.a
+		name = crisis.2225.a
+	}
+}
+
+# Failed Counter Terrorist IA
+planet_event = {
+	id = crisis.2235
+	title = crisis.2235.name
+	desc = crisis.2235.desc
+	picture = GFX_evt_exploding_ship
+	show_sound = event_ship_explosion
+
+	immediate = {
+		destroy_fleet = spaceport
+		set_planet_flag = synth_activity
+	}
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = crisis.2235.a
 	}
 }
 
