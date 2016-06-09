@@ -1,6 +1,6 @@
 ﻿l_french:
  crisis.2215.name:0 "Tentative de sabordage du spatioport"
- crisis.2215.desc:0 "Le spatioport en orbite autour de [Root.GetName] subit actuellement une tentative de sabordage ! \n\nNos espions signals que plusieurs membres du personnel sont à l'origine du sabordage en cours."
+ crisis.2215.desc:0 "Le spatioport en orbite autour de [Root.GetName] subit actuellement une tentative de sabordage ! \n\nSelon nos espions, il semble que plusieurs membres du personnel font partie de cette attaque terroriste."
  crisis.2215.a:0 "Envoyez l'équipe de contre-terroristes !"
  crisis.2225.name:0 "Succès des contre-terroristes !"
  crisis.2225.desc:0 "Le spatioport en orbite autour de [Root.GetName] a eu une tentative de sabordage ! Les contre-terroristes ont déjoués la tentative.\n\nUne enquête est en cours, mais il semble que plusieurs membres de son personnel, y compris l'ingénieur en chef, aient été remplacés par des infiltrateurs synthétiques.\n\nC'est ainsi qu'ils ont dû réussir à s'approcher des générateurs d'énergie du spatioport avec une bombe. \n\nHeureusement les contre-terroristes de [Root.GetName] sont intervenus et ont reussi à stopper les infiltrés."
