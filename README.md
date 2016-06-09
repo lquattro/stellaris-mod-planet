@@ -10,14 +10,15 @@ the source code for this mods :
 * [Micro System](#micro-system)
 * [SECTOR_PLANET_TO_50](#sector_planet_to_50)
 * [SECTOR_PLANET_TO_100](#sector_planet_to_100)
+* [Balance_crisis_event](#balance-crisis-event)
 
 ## Advanced Sector Planet
 
 ### STATS
 
 * Mod : GamePlay
+* Status Development : Interrupt
 * Gamer : Not for begginner
-* Development : Stop
 
 ### PROBLEM
 
@@ -41,8 +42,9 @@ Not cool...
 
 ### STATS
 
-* Mod : Utilities
-<i>Replace color file</i>
+* Mod : Utilities <i>Replace color file</i>
+* Status Development : Complet
+* Gamer : All
 
 ### SCREENSHOT
 
@@ -62,6 +64,7 @@ Not cool...
 ### STATS
 
 * Mod : GamePlay
+* Status Development : Complet
 * Gamer : Very fast game
 
 ### SCREENSHOT
@@ -82,6 +85,7 @@ Not cool...
 ### STATS
 
 * Mod : GamePlay
+* Status Development : Complet
 * Gamer : Not for begginner
 
 ### SCREENSHOT
@@ -100,12 +104,38 @@ Not cool...
 ### STATS
 
 * Mod : GamePlay
+* Status Development : Complet
 * Gamer : Not for begginner
 
 ### SCREENSHOT
 
 ![Screenshot1](sector_planet_100_screenshot.png)
 ![Screenshot2](sector_planet_100_screenshot2.jpg)
+<br>
+
+## Balance Crisis Event
+<!-- Description -->
+<b>FR :</b> Ce mode a été créer pour équilibrer la puissance des évènements suivant la puissance de feu des joueurs quand elle s'active. Cela prend en compte l'équilibrage des effectifs, l'ajout d'éléments aléatoire dans les events* annexes, et l'ajouts de possibilité d'intéraction.
+<br>Ce mode est une réponse face à l'inexistance d'équilibrage dans les events crisis, nous invitans sur des modes à les désactivés, ceci étant dommage surtout par l'intéraction que cela fait de voir ces envahisseurs.
+<br>Un plus grand pourcentage de survie est visible face à ces évènements, mais en aucun cas les évènements crisis deviennent "easy".
+
+### STATS
+
+* Mod : GamePlay
+* Status Development : Work in Progress (2%)
+* Gamer : For all
+
+### SCREENSHOT
+
+![Sceenshot1 Crisis Event 3](crisis_event_3_spaceport_screenshot.jpg)
+![Sceenshot2 Crisis Event 3](crisis_event_3_spaceport_screenshot2.jpg)
+
+### LOG
+
+* Update Event crisis.2205 : Spaceport Scuttled (Random result)
+* Add Event crisis.2225 : Success Counter Terrorist IA
+* Add Event crisis.2235 : Failed Counter Terrorist IA
+* Add French and English Language Event : crisis.2215, crisis.2225, crisis.2235
 
 ---
 

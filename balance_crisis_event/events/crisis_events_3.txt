@@ -6,7 +6,9 @@
 #
 # Updated Mod by Scuriva Elquattro
 #
-# - Add Event crisis.2205.z (75%)
+# - Update Event crisis.2205 : Spaceport Scuttled (Random result)
+# - Add Event crisis.2225 : Success Counter Terrorist IA
+# - Add Event crisis.2235 : Failed Counter Terrorist IA
 #
 ##################################
 
