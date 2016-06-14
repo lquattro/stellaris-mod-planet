@@ -67,6 +67,10 @@ Another Mod :
 [h1]-___Stellaris Verions 1.1.0___-[/h1]
 [h1]-___Mod Verions 0.1.0___-[/h1]
 
+Special Thx : 
+[list][*]KEX (Russian Translate)
+[/list]
+
 [b]EN[/b] : This mode was created to balance the power of the events following the firepower players when it activates. This takes considered the balance of the power, adding random elements in sub events* and add possibilities of interactions.
 
 This mode is a answer to the no balancing in crisis events, inviting us on mods for deactivated it. Too bad, because this event is very cool.
@@ -83,15 +87,11 @@ Un plus grand pourcentage de survie est visible face à ces évènements, mais e
 
 [h1]Actual Version[/h1]
 [b]Status development : Started[/b]
-
-[list]
-[*] Crisis Event 3 [Event 2205] Spaceport Scuttled : Change Auto Destruct to Random possibility 65% (safe)/35% (destruct) and add translate EN/FR/RU (for another language : it's EN)
+[list][*] Crisis Event 3 [Event 2205] Spaceport Scuttled : Change Auto Destruct to Random possibility 65% (safe)/35% (destruct) and add translate EN/FR/RU (for another language : it's EN)
 [/list]
 
 [h1]In Development : [/h1]
-
-[list]
-[*] Crisis Event 1 : PRETHORYN SCOURGE
+[list][*] Crisis Event 1 : PRETHORYN SCOURGE
    [list][*] Balance PowerShips : 0%
    [*] Balance PowerTroops : 0%
    [*] Balance Event : 0%
