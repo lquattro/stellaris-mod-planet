@@ -114,7 +114,11 @@ Not cool...
 <br>
 
 ## Balance Crisis Event
-<!-- Description -->
+
+<b>EN :</b>This mode was created to balance the power of the events following the firepower players when it activates. This takes considered the balance of the power, adding random elements in sub events* and add possibilities of interactions.
+<br>This mode is a answer to the no balancing in crisis events, inviting us on mods for deactivated it. Too bad, because this event is very cool.
+<br>A greater percentage of survival is face up to these events, but crisis events not become "easy."
+
 <b>FR :</b> Ce mode a été créer pour équilibrer la puissance des évènements suivant la puissance de feu des joueurs quand elle s'active. Cela prend en compte l'équilibrage des effectifs, l'ajout d'éléments aléatoire dans les events* annexes, et l'ajouts de possibilité d'intéraction.
 <br>Ce mode est une réponse face à l'inexistance d'équilibrage dans les events crisis, nous invitans sur des modes à les désactivés, ceci étant dommage surtout par l'intéraction que cela fait de voir ces envahisseurs.
 <br>Un plus grand pourcentage de survie est visible face à ces évènements, mais en aucun cas les évènements crisis deviennent "easy".

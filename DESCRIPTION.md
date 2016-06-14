@@ -6,6 +6,7 @@
 [h1]-___Micro System___-[/h1]
 [h1]-___Gameplay Mod___-[/h1]
 [h1]-___Stellaris Verions 1.1.0___-[/h1]
+[h1]-___Mod Verions 1.0.1___-[/h1]
 
 EN : This little mod add Micro System (100 stars) and Baby System (50 stars).
 Use for a very fast game.
@@ -24,6 +25,7 @@ Compatible Multiplayer : Thanks __Wolf[/h1]
 [h1]-___Sector Planet to 100___-[/h1]
 [h1]-___Gameplay Mod___-[/h1]
 [h1]-___Stellaris Verions 1.1.0___-[/h1]
+[h1]-___Mod Verions 1.0.2___-[/h1]
 
 EN : This little mod changes the gameplay by enlarging the total number of planets from 5 to 100.
 FR : Ce petit mode change le gameplay en élargissant le nombre total de planète de 5 à 100.
@@ -43,6 +45,7 @@ Another Mod :
 [h1]-_Sector Planet to 50_-[/h1]
 [h1]-___Gameplay Mod___-[/h1]
 [h1]-___Stellaris Verions 1.1.0___-[/h1]
+[h1]-___Mod Verions 1.0.2___-[/h1]
 
 EN : This little mod changes the gameplay by enlarging the total number of planets from 5 to 50.
 FR : Ce petit mode change le gameplay en élargissant le nombre total de planète de 5 à 50.
@@ -54,4 +57,60 @@ Another Mod :
 [list]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]
 [/list]
+```
+
+## Balance Crisis Event
+
+```
+[h1]-_Balance Crisis Event_-[/h1]
+[h1]-___Gameplay Mod___-[/h1]
+[h1]-___Stellaris Verions 1.1.0___-[/h1]
+[h1]-___Mod Verions 0.1.0___-[/h1]
+
+[b]EN[/b] : This mode was created to balance the power of the events following the firepower players when it activates. This takes considered the balance of the power, adding random elements in sub events* and add possibilities of interactions.
+
+This mode is a answer to the no balancing in crisis events, inviting us on mods for deactivated it. Too bad, because this event is very cool.
+
+A greater percentage of survival is face up to these events, but crisis events not become "easy."
+
+
+[b]FR[/b] : Ce mode a été créer pour équilibrer la puissance des évènements suivant la puissance de feu des joueurs quand elle s'active. Cela prend en compte l'équilibrage des effectifs, l'ajout d'éléments aléatoire dans les events* annexes, et l'ajouts de possibilité d'intéraction.
+
+Ce mode est une réponse face à l'inexistance d'équilibrage dans les events crisis, nous invitans sur des modes à les désactivés, ceci étant dommage surtout par l'intéraction que cela fait de voir ces envahisseurs.
+
+Un plus grand pourcentage de survie est visible face à ces évènements, mais en aucun cas les évènements crisis deviennent "easy".
+
+
+[h1]Actual Version[/h1]
+[b]Status development : Started[/b]
+
+[list]
+[*] Crisis Event 3 [Event 2205] Spaceport Scuttled : Change Auto Destruct to Random possibility 65% (safe)/35% (destruct) and add translate EN/FR/RU (for another language : it's EN)
+[/list]
+
+[h1]In Development : [/h1]
+
+[list]
+[*] Crisis Event 1 : PRETHORYN SCOURGE
+   [list][*] Balance PowerShips : 0%
+   [*] Balance PowerTroops : 0%
+   [*] Balance Event : 0%
+   [*] Translate Updated Event : 0%
+   [/list]
+[*] Crisis Event 2 : EXTRADIMENSIONALS
+   [list][*] Balance PowerShips : 0%
+   [*] Balance PowerTroops : 0%
+   [*] Balance Event : 0%
+   [*] Translate Updated Event : 0%
+   [/list]
+[*] Crisis Event 3 : IA
+   [list][*] Balance PowerShips : 0%
+   [*] Balance PowerTroops : 0%
+   [*] Balance Event : 2%
+   [*] Translate Updated Event : 1%
+   [/list]
+[/list]
+
+I need a construct ideas for continue to dev this mod. If you want to change element, or help? Please send message in forum =D.
+
 ```
