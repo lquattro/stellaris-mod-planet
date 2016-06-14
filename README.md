@@ -125,21 +125,22 @@ Not cool...
 
 ### STATS
 
-* Mod : GamePlay
+* Mod : GamePlay, Balance
 * Status Development : Work in Progress (2%)
 * Gamer : For all
 
-### SCREENSHOT
+### SCREENSHOT EXAMPLE
 
-![Sceenshot1 Crisis Event 3](crisis_event_3_spaceport_screenshot.jpg)
+![Sceenshot1 Crisis Event 3](crisis_event_3_spaceport_screenshot1.jpg)
 ![Sceenshot2 Crisis Event 3](crisis_event_3_spaceport_screenshot2.jpg)
+![Sceenshot3 Crisis Event 3](crisis_event_3_spaceport_screenshot3.jpg)
 
 ### LOG
 
 * Update Event crisis.2205 : Spaceport Scuttled (Random result)
 * Add Event crisis.2225 : Success Counter Terrorist IA
 * Add Event crisis.2235 : Failed Counter Terrorist IA
-* Add French and English Language Event : crisis.2215, crisis.2225, crisis.2235
+* Add French, English and Russian Language Event : crisis.2215, crisis.2225, crisis.2235
 
 ---
 

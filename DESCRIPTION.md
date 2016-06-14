@@ -63,7 +63,7 @@ Another Mod :
 
 ```
 [h1]-_Balance Crisis Event_-[/h1]
-[h1]-___Gameplay Mod___-[/h1]
+[h1]-___Gameplay/Balance Mod___-[/h1]
 [h1]-___Stellaris Verions 1.1.0___-[/h1]
 [h1]-___Mod Verions 0.1.0___-[/h1]
 
