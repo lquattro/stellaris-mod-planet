@@ -1,4 +1,8 @@
 ﻿l_french:
+ crisis.2214.name:0 "Attentat orchestré par des synthétiques en cours"
+ crisis.2214.desc:0 "Déguisés en [Root.Owner.GetSpeciesNamePlural], des infiltrateurs synthétiques ont réussi à poser une bombe à hydrogène à la surface de [Root.GetName]. Démasqués à un poste de contrôle militaire, l'équipe d'intervention est en cours d'opération pour sécuriser la zone."
+ crisis.2214.a:0 "J'espère que tout ira bien."
+
  crisis.2215.name:0 "Tentative de sabordage du spatioport"
  crisis.2215.desc:0 "Le spatioport en orbite autour de [Root.GetName] subit actuellement une tentative de sabordage ! \n\nSelon nos espions, il semble que plusieurs membres du personnel font partie de cette attaque terroriste."
  crisis.2215.a:0 "Envoyez l'équipe de contre-terroristes !"

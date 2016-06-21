@@ -2010,8 +2010,8 @@ country_event = {
 # Synth Bombing
 planet_event = {
 	id = crisis.2204
-	title = "crisis.2204.name"
-	desc = "crisis.2204.desc"
+	title = "crisis.2214.name"
+	desc = "crisis.2214.desc"
 	picture = GFX_evt_nuclear_explosion
 	show_sound = event_super_explosion
 	location = ROOT
@@ -2041,7 +2041,36 @@ planet_event = {
 	mean_time_to_happen = {
 		months = 420
 	}
+
+	option = {
+		name = crisis.2214.a
+		random_list = {
+			20 = {
+				planet_event = { id = crisis.2244 } # Crit Failed
+			}
+			40 = {
+				planet_event = { id = crisis.2234 } # Failed
+			}
+			40 = {
+				planet_event = { id = crisis.2224 } # Success
+			}
+		}
+	}
 	
+	option = {
+		name = crisis.2214.a
+	}
+}
+
+# Crit Failed Counter Terrorist Synth Bombing
+planet_event = {
+	id = crisis.2244
+	title = crisis.2244.name
+	desc = crisis.2244.desc
+	picture = GFX_evt_nuclear_explosion
+	show_sound = event_super_explosion
+	location = ROOT
+
 	immediate = {
 		random_tile = {
 			limit = { 
@@ -2062,8 +2091,60 @@ planet_event = {
 		set_planet_flag = synth_activity
 	}
 	
+	is_triggered_only = yes
+	
 	option = {
-		name = crisis.2204.a
+		name = crisis.2244.a
+	}
+}
+
+# Failed Counter Terrorist Synth Bombing
+planet_event = {
+	id = crisis.2234
+	title = crisis.2234.name
+	desc = crisis.2234.desc
+	picture = GFX_evt_nuclear_explosion
+	show_sound = event_super_explosion
+	location = ROOT
+
+	immediate = {
+		random_tile = {
+			limit = { 
+				has_building = yes
+				has_grown_pop = yes
+				NOT = { 
+					OR = {
+						has_building = "building_capital_1"
+						has_building = "building_capital_2"
+						has_building = "building_capital_3"
+					}
+				}
+			}
+			remove_building = yes
+		}
+		set_planet_flag = synth_activity
+	}
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = crisis.2234.a
+	}
+}
+
+# Success Counter Terrorist Synth Bombing
+planet_event = {
+	id = crisis.2224
+	title = crisis.2224.name
+	desc = crisis.2224.desc
+	picture = GFX_evt_physics_research
+	show_sound = event_ground_battle
+	location = ROOT
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = crisis.2224.a
 	}
 }
 
@@ -2105,7 +2186,7 @@ planet_event = {
 	}
 }
 
-# Success Counter Terrorist IA
+# Success Counter Terrorist IA Spaceport Scuttled
 planet_event = {
 	id = crisis.2225
 	title = crisis.2225.name
@@ -2120,7 +2201,7 @@ planet_event = {
 	}
 }
 
-# Failed Counter Terrorist IA
+# Failed Counter Terrorist IA Spaceport Scuttled
 planet_event = {
 	id = crisis.2235
 	title = crisis.2235.name
