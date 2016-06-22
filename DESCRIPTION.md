@@ -65,7 +65,7 @@ Another Mod :
 [h1]-_Balance Crisis Event_-[/h1]
 [h1]-___Gameplay/Balance Mod___-[/h1]
 [h1]-___Stellaris Verions 1.1.0___-[/h1]
-[h1]-___Mod Verions 0.1.0___-[/h1]
+[h1]-___Mod Verions 0.2.0___-[/h1]
 
 Special Thx : 
 [list][*]KEX (Russian Translate)
@@ -88,6 +88,7 @@ Un plus grand pourcentage de survie est visible face à ces évènements, mais e
 [h1]Actual Version[/h1]
 [b]Status development : Started[/b]
 [list][*] Crisis Event 3 [Event 2205] Spaceport Scuttled : Change Auto Destruct to Random possibility 65% (safe)/35% (destruct) and add translate EN/FR/RU (for another language : it's EN)
+[*] Crisis Event 3 [Event 2204] Synth Bombing : Change Auto Destruct to Random possibility 40% (safe)/40% (destruct only building)/20% (destruct and kill people) and add translate EN/FR (for another language : it's EN)
 [/list]
 
 [h1]In Development : [/h1]
@@ -106,8 +107,8 @@ Un plus grand pourcentage de survie est visible face à ces évènements, mais e
 [*] Crisis Event 3 : IA
    [list][*] Balance PowerShips : 0%
    [*] Balance PowerTroops : 0%
-   [*] Balance Event : 2%
-   [*] Translate Updated Event : 1%
+   [*] Balance Event : 5%
+   [*] Translate Updated Event : 4%
    [/list]
 [/list]
 
