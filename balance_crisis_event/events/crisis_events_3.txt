@@ -2013,8 +2013,8 @@ planet_event = {
 	id = crisis.2204
 	title = "crisis.2214.name"
 	desc = "crisis.2214.desc"
-	picture = GFX_evt_nuclear_explosion
-	show_sound = event_super_explosion
+	picture = GFX_evt_ground_combat
+	show_sound = event_ground_battle
 	location = ROOT
 	
 	trigger = {
@@ -2135,7 +2135,7 @@ planet_event = {
 	title = crisis.2224.name
 	desc = crisis.2224.desc
 	picture = GFX_evt_physics_research
-	show_sound = event_ground_battle
+	show_sound = event_alien_nature
 	location = ROOT
 	
 	is_triggered_only = yes
