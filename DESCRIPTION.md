@@ -6,7 +6,7 @@
 [h1]-___Micro System___-[/h1]
 [h1]-___Gameplay Mod___-[/h1]
 [h1]-___Stellaris Verions 1.3.0___-[/h1]
-[h1]-___Mod Verions 1.0.3___-[/h1]
+[h1]-___Mod Verions 1.1.0___-[/h1]
 
 EN : This little mod add Micro System (100 stars) and Baby System (50 stars).
 Use for a very fast game.

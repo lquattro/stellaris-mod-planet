@@ -28,7 +28,8 @@ the source code for this mods :
 ### SCREENSHOT
 
 ![Screenshot](metal_color/metal_color.png)
-<br>
+
+---
 
 ## Micro System
 
