@@ -17,6 +17,12 @@ FR : Ce petit mod ajoute un micro system (100 étoiles) and bébé System (50 é
 Utilisé pour des parties extrèmements rapide.
 [h1]Ce mod est compatible avec les autres mod : Taille de la galaxie
 Compatible Multiplayer : Thanks __Wolf[/h1]
+
+Another Mod : 
+[list]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=686374827]  Sector Planet to 50 [/url]  [i](link steam)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]  [i](link steam)[/i]
+[/list]
 ```
 
 ## Sector Planet 100
@@ -35,7 +41,8 @@ FR : Ce petit mode change le gameplay en élargissant le nombre total de planèt
 
 Another Mod : 
 [list]
-[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=686374827]  Sector Planet to 50 [/url]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=686374827]  Sector Planet to 50 [/url]  [i](link steam)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Micro System [/url] [i](link steam)[/i] : [i]Baby or Micro galaxy for fast game (compatible Multi)[/i]
 [/list]
 ```
 
@@ -55,6 +62,7 @@ FR : Ce petit mode change le gameplay en élargissant le nombre total de planèt
 
 Another Mod : 
 [list]
-[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]  [i](link steam)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Micro System [/url] [i](link steam)[/i] : [i]Baby or Micro galaxy for fast game (compatible Multi)[/i]
 [/list]
 ```
