@@ -2084,3 +2084,46 @@ planet_event = {
 		}
 	}
 }
+
+# Destroy AI
+# On yearly pulse or not
+event = {
+	id = crisis.2666
+	title = "Destroy AI order 66"
+	desc = "Mod : Clean ai crisis event."
+	picture = GFX_evt_physics_research
+	show_sound = event_alien_nature
+
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			any_country = {
+				is_country_type = ai_empire
+			}
+			has_global_flag = ai_revolt_happened
+			has_global_flag = galactic_crisis_happened
+		}
+	}
+
+	immediate = {
+		if = {
+			limit = {
+				any_country = {
+					is_country_type = ai_empire
+				}
+			}
+
+			every_country = {
+				limit = {
+					is_country_type = ai_empire
+				}
+				destroy_country = yes
+			}
+		}
+
+		# Clear events Crisis
+		remove_global_flag  = ai_revolt_happened
+		remove_global_flag  = galactic_crisis_happened
+	}
+}

@@ -2431,3 +2431,61 @@ event = {
 		}
 	}
 }
+
+# Mod Clear Swarm Event
+# On yearly pulse
+event = {
+	id = crisis.666
+	#hide_window = yes
+	title = "Destroy Swarm order 66"
+	desc = "Mod : Clean Swarm event invader."
+	picture = GFX_evt_physics_research
+	show_sound = event_alien_nature
+
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			any_country = {
+				is_country_type = swarm
+			}
+			has_global_flag = prethoryn
+			has_global_flag = prethoryn_subspace_echoes
+			has_global_flag = prethoryn_main_invasion
+			has_global_flag = prethoryn_invasion_happened
+			has_global_flag = prethoryn_approaching_rim
+			has_global_flag = prethoryn_transmission
+			has_global_flag = galactic_crisis_happened
+		}
+	}
+
+	immediate = {
+		if = {
+			limit = {
+				any_country = {
+					is_country_type = swarm
+				}
+			}
+			
+			every_country = {
+				limit = {
+					is_country_type = swarm
+				}
+				destroy_country = yes
+			}
+		}
+
+		# Clear events Crisis
+		end_event_chain = "coming_storm_chain"
+		end_event_chain = "prethoryn_scourge_chain"
+		remove_global_flag  = prethoryn
+		remove_global_flag  = prethoryn_subspace_echoes
+		remove_global_flag  = prethoryn_main_invasion
+		remove_global_flag  = prethoryn_invasion_happened
+		remove_global_flag  = prethoryn_approaching_rim
+		remove_global_flag  = prethoryn_transmission
+		remove_global_flag  = prethoryn_arrival
+		remove_global_flag  = galactic_crisis_happened
+		remove_global_flag  = sentinels_founded
+	}
+}

@@ -3154,3 +3154,69 @@ event = {
 		}
 	}
 }
+
+# Mod Clear Extradimensional Event
+# On yearly pulse
+event = {
+	id = crisis.1666
+	#hide_window = yes
+	title = "Destroy extradimensional order 66"
+	desc = "Mod : Clean extradimensional event invader."
+	picture = GFX_evt_physics_research
+	show_sound = event_alien_nature
+
+	is_triggered_only = yes
+
+	trigger = {
+		OR = {
+			any_country = {
+				is_country_type = swarm
+			}
+			has_global_flag = extradimensional_invasion_happened
+			has_global_flag = galactic_crisis_happened
+			has_global_flag = extradimensional_first_portal_destroyed
+			has_global_flag = extradimensional_second_portal
+			has_global_flag = extradimensional_second_portal_destroyed
+			has_global_flag = extradimensionals_fight
+			has_global_flag = extradimensional_third_portal
+			has_global_flag = extradimensional_third_portal_destroyed
+		}
+	}
+
+	immediate = {
+		if = {
+			limit = {
+				any_country = {
+					OR = {
+						is_country_type = extradimensional
+						is_country_type = extradimensional_2
+						is_country_type = extradimensional_3
+					}
+				}
+			}
+
+			every_country = {
+				limit = {
+					OR = {
+						is_country_type = extradimensional
+						is_country_type = extradimensional_2
+						is_country_type = extradimensional_3
+					}
+				}
+				destroy_country = yes
+			}
+		}
+
+		# Clear events Crisis
+		end_event_chain = "extradimensional_invasion_chain"
+		end_event_chain = "prethoryn_scourge_chain"
+		remove_global_flag  = extradimensional_invasion_happened
+		remove_global_flag  = galactic_crisis_happened
+		remove_global_flag  = extradimensional_first_portal_destroyed
+		remove_global_flag  = extradimensional_second_portal
+		remove_global_flag  = extradimensional_second_portal_destroyed
+		remove_global_flag  = extradimensionals_fight
+		remove_global_flag  = extradimensional_third_portal
+		remove_global_flag  = extradimensional_third_portal_destroyed
+	}
+}
