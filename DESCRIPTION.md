@@ -22,6 +22,7 @@ Another Mod :
 [list]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=686374827]  Sector Planet to 50 [/url]  [i](link steam)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]  [i](link steam)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Force Clear Crisis Event [/url] [i](link steam)[/i]
 [/list]
 ```
 
@@ -43,6 +44,7 @@ Another Mod :
 [list]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=686374827]  Sector Planet to 50 [/url]  [i](link steam)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Micro System [/url] [i](link steam)[/i] : [i]Baby or Micro galaxy for fast game (compatible Multi)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Force Clear Crisis Event [/url] [i](link steam)[/i]
 [/list]
 ```
 
@@ -62,6 +64,44 @@ FR : Ce petit mode change le gameplay en élargissant le nombre total de planèt
 
 Another Mod : 
 [list]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]  [i](link steam)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Micro System [/url] [i](link steam)[/i] : [i]Baby or Micro galaxy for fast game (compatible Multi)[/i]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Force Clear Crisis Event [/url] [i](link steam)[/i]
+[/list]
+```
+
+## Force Clear Crisis Event
+
+```
+[h1]-_Force Clear Crisis Event_-[/h1]
+[h1]-___Gameplay Mod___-[/h1]
+[h1]-___Stellaris Verions 1.3.0___-[/h1]
+[h1]-___Mod Verions 0.0.1___-[/h1]
+
+[h1][b]WARNING : this mod is working progress! It's a Alpha. Please copy save game data before activate this mod!!![/b][/h1]
+[i]If you have a crash or any problem in game with this mod : please disabled this mod and report a problem! Thank You![/i]
+[i]This mod still requires many tests, excuse me : it's a ALPHA mod.[/i]
+
+EN : This mod is a tool to stop and clean crisis events, for people which have forgotten to uncheck the option at start in party configuration.
+FR : Ce mode est un outil permettant de stoper et nettoyer les crisis events, pour les personnes ayant oubliés de décocher l'option au début dans la configuration de partie. 
+
+Operation :
+[list]
+[*]Auto : This mod has trigger (on yearly pulse), auto clear crisis event if you activate this mod. (WIP)
+[*]Manual : You can use COMMAND for choice to clear.
+[/list]
+
+Manual Operation Instruction :
+In your game, stop time and :
+[olist]
+[*]Open console : use key keyboard [code]~ or ^ or ¤ or ² or `[/code]
+[*]Enter the command : [code]Event crisis.ID_EVENT[/code]
+[*]ID_EVENT is event to clear crisis : Swarm = 666, Extradimensional = 1666, AI = 2666[/code]
+[/olist]
+
+Another Mod : 
+[list]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=686374827]  Sector Planet to 50 [/url]  [i](link steam)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=685666414]  Sector Planet to 100 [/url]  [i](link steam)[/i]
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=689628539]  Micro System [/url] [i](link steam)[/i] : [i]Baby or Micro galaxy for fast game (compatible Multi)[/i]
 [/list]
