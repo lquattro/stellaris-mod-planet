@@ -75,8 +75,8 @@ Another Mod :
 ```
 [h1]-_Force Clear Crisis Event_-[/h1]
 [h1]-___Gameplay Mod___-[/h1]
-[h1]-___Stellaris Verions 1.3.0___-[/h1]
-[h1]-___Mod Verions 0.0.1___-[/h1]
+[h1]-___Stellaris Verions 1.3.1___-[/h1]
+[h1]-___Mod Verions 0.0.2___-[/h1]
 
 [h1][b]WARNING : this mod is working progress! It's a Alpha. Please copy save game data before activate this mod!!![/b][/h1]
 [i]If you have a crash or any problem in game with this mod : please disabled this mod and report a problem! Thank You![/i]
