@@ -74,9 +74,9 @@ Another Mod :
 
 ```
 [h1]-_Force Clear Crisis Event_-[/h1]
-[h1]-___Gameplay Mod___-[/h1]
-[h1]-___Stellaris Verions 1.3.1___-[/h1]
-[h1]-___Mod Verions 0.0.2___-[/h1]
+[h1]-___Mod Verions 0.0.3___-[/h1]
+
+[u]Compatible[/u] : Game version 1.2.* and 1.3.*
 
 [h1][b]WARNING : this mod is working progress! It's a Alpha. Please copy save game data before activate this mod!!![/b][/h1]
 [i]If you have a crash or any problem in game with this mod : please disabled this mod and report a problem! Thank You![/i]
@@ -87,7 +87,7 @@ Another Mod :
 
 [u]Operation :[/u]
 [list]
-[*]Auto : This mod has trigger (on yearly pulse), auto clear crisis event if you activate this mod. (WIP)
+[*]Auto : This mod has trigger (on yearly pulse), auto clear crisis event if you activate this mod. (Disable and WiP)
 [*]Manual : You can use COMMAND for choice to clear.
 [/list]
 

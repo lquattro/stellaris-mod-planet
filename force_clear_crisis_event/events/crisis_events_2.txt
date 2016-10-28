@@ -3167,21 +3167,21 @@ event = {
 
 	is_triggered_only = yes
 
-	trigger = {
-		OR = {
-			any_country = {
-				is_country_type = swarm
-			}
-			has_global_flag = extradimensional_invasion_happened
-			has_global_flag = galactic_crisis_happened
-			has_global_flag = extradimensional_first_portal_destroyed
-			has_global_flag = extradimensional_second_portal
-			has_global_flag = extradimensional_second_portal_destroyed
-			has_global_flag = extradimensionals_fight
-			has_global_flag = extradimensional_third_portal
-			has_global_flag = extradimensional_third_portal_destroyed
-		}
-	}
+	#trigger = {
+	#	OR = {
+	#		any_country = {
+	#			is_country_type = swarm
+	#		}
+	#		has_global_flag = extradimensional_invasion_happened
+	#		has_global_flag = galactic_crisis_happened
+	#		has_global_flag = extradimensional_first_portal_destroyed
+	#		has_global_flag = extradimensional_second_portal
+	#		has_global_flag = extradimensional_second_portal_destroyed
+	#		has_global_flag = extradimensionals_fight
+	#		has_global_flag = extradimensional_third_portal
+	#		has_global_flag = extradimensional_third_portal_destroyed
+	#	}
+	#}
 
 	immediate = {
 		if = {

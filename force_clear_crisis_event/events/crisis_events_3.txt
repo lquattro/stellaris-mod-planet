@@ -2096,15 +2096,15 @@ event = {
 
 	is_triggered_only = yes
 
-	trigger = {
-		OR = {
-			any_country = {
-				is_country_type = ai_empire
-			}
-			has_global_flag = ai_revolt_happened
-			has_global_flag = galactic_crisis_happened
-		}
-	}
+	#trigger = {
+	#	OR = {
+	#		any_country = {
+	#			is_country_type = ai_empire
+	#		}
+	#		has_global_flag = ai_revolt_happened
+	#		has_global_flag = galactic_crisis_happened
+	#	}
+	#}
 
 	immediate = {
 		if = {
