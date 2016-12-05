@@ -5,4 +5,4 @@ tags={
 }
 picture="metal_color.png"
 remote_file_id="685666414"
-supported_version="1.3.*"
+supported_version="1.4.*"

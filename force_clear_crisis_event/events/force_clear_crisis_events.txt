@@ -1,0 +1,175 @@
+############################
+#
+# Force Clear Crisis Events
+#
+# Written by lquattro
+#
+############################
+
+# Clear Swarm Events
+# On yearly pulse
+event = {
+   id = crisis.666
+   #hide_window = yes
+   title = "Destroy Swarm order 66"
+   desc = "Mod : Clean Swarm event invader."
+   picture = GFX_evt_physics_research
+   show_sound = event_alien_nature
+
+   is_triggered_only = yes
+
+   #trigger = {
+   #  OR = {
+   #     any_country = {
+   #        is_country_type = swarm
+   #     }
+   #     has_global_flag = prethoryn
+   #     has_global_flag = prethoryn_subspace_echoes
+   #     has_global_flag = prethoryn_main_invasion
+   #     has_global_flag = prethoryn_invasion_happened
+   #     has_global_flag = prethoryn_approaching_rim
+   #     has_global_flag = prethoryn_transmission
+   #     has_global_flag = galactic_crisis_happened
+   #  }
+   #}
+
+   immediate = {
+      if = {
+         limit = {
+            any_country = {
+               is_country_type = swarm
+            }
+         }
+         
+         every_country = {
+            limit = {
+               is_country_type = swarm
+            }
+            destroy_country = yes
+         }
+      }
+
+      # Clear events Crisis
+      end_event_chain = "coming_storm_chain"
+      end_event_chain = "prethoryn_scourge_chain"
+      remove_global_flag  = prethoryn
+      remove_global_flag  = prethoryn_subspace_echoes
+      remove_global_flag  = prethoryn_main_invasion
+      remove_global_flag  = prethoryn_invasion_happened
+      remove_global_flag  = prethoryn_approaching_rim
+      remove_global_flag  = prethoryn_transmission
+      remove_global_flag  = prethoryn_arrival
+      remove_global_flag  = galactic_crisis_happened
+      remove_global_flag  = sentinels_founded
+   }
+}
+
+# Clear Extradimensional Events
+# On yearly pulse
+event = {
+   id = crisis.1666
+   #hide_window = yes
+   title = "Destroy extradimensional order 66"
+   desc = "Mod : Clean extradimensional event invader."
+   picture = GFX_evt_physics_research
+   show_sound = event_alien_nature
+
+   is_triggered_only = yes
+
+   #trigger = {
+   #  OR = {
+   #     any_country = {
+   #        is_country_type = swarm
+   #     }
+   #     has_global_flag = extradimensional_invasion_happened
+   #     has_global_flag = galactic_crisis_happened
+   #     has_global_flag = extradimensional_first_portal_destroyed
+   #     has_global_flag = extradimensional_second_portal
+   #     has_global_flag = extradimensional_second_portal_destroyed
+   #     has_global_flag = extradimensionals_fight
+   #     has_global_flag = extradimensional_third_portal
+   #     has_global_flag = extradimensional_third_portal_destroyed
+   #  }
+   #}
+
+   immediate = {
+      if = {
+         limit = {
+            any_country = {
+               OR = {
+                  is_country_type = extradimensional
+                  is_country_type = extradimensional_2
+                  is_country_type = extradimensional_3
+               }
+            }
+         }
+
+         every_country = {
+            limit = {
+               OR = {
+                  is_country_type = extradimensional
+                  is_country_type = extradimensional_2
+                  is_country_type = extradimensional_3
+               }
+            }
+            destroy_country = yes
+         }
+      }
+
+      # Clear events Crisis
+      end_event_chain = "extradimensional_invasion_chain"
+      end_event_chain = "extradimensional_invasion_chain_2"
+      end_event_chain = "extradimensional_invasion_chain_3"
+      remove_global_flag  = extradimensional_invasion_happened
+      remove_global_flag  = galactic_crisis_happened
+      remove_global_flag  = extradimensional_first_portal_destroyed
+      remove_global_flag  = extradimensional_second_portal
+      remove_global_flag  = extradimensional_second_portal_destroyed
+      remove_global_flag  = extradimensionals_fight
+      remove_global_flag  = extradimensional_third_portal
+      remove_global_flag  = extradimensional_third_portal_destroyed
+   }
+}
+
+# Clear AI Events
+# On yearly pulse or not
+event = {
+   id = crisis.2666
+   title = "Destroy AI order 66"
+   desc = "Mod : Clean ai crisis event."
+   picture = GFX_evt_physics_research
+   show_sound = event_alien_nature
+
+   is_triggered_only = yes
+
+   #trigger = {
+   #  OR = {
+   #     any_country = {
+   #        is_country_type = ai_empire
+   #     }
+   #     has_global_flag = ai_revolt_happened
+   #     has_global_flag = galactic_crisis_happened
+   #  }
+   #}
+
+   immediate = {
+      if = {
+         limit = {
+            any_country = {
+               is_country_type = ai_empire
+            }
+         }
+
+         every_country = {
+            limit = {
+               is_country_type = ai_empire
+            }
+            destroy_country = yes
+         }
+      }
+
+      # Clear events Crisis
+      remove_global_flag  = ai_revolt_happened
+      remove_global_flag  = galactic_crisis_happened
+   }
+}
