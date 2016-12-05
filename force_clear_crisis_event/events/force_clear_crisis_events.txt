@@ -117,6 +117,7 @@ event = {
       }
 
       # Clear events Crisis
+      end_event_chain = "prethoryn_scourge_chain"
       end_event_chain = "extradimensional_invasion_chain"
       end_event_chain = "extradimensional_invasion_chain_2"
       end_event_chain = "extradimensional_invasion_chain_3"

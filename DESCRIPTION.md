@@ -4,9 +4,9 @@
 
 ```
 [h1]-___Micro System___-[/h1]
-[h1]-___Gameplay Mod___-[/h1]
-[h1]-___Stellaris Verions 1.4.*___-[/h1]
 [h1]-___Mod Verions 1.1.1___-[/h1]
+
+[u]Compatible[/u] : Game version 1.2.*, 1.3.* and 1.4.*
 
 EN : This little mod add Micro System (100 stars) and Baby System (50 stars).
 Use for a very fast game.
@@ -30,9 +30,9 @@ Another Mod :
 
 ```
 [h1]-___Sector Planet to 100___-[/h1]
-[h1]-___Gameplay Mod___-[/h1]
-[h1]-___Stellaris Verions 1.4.*___-[/h1]
 [h1]-___Mod Verions 1.0.6___-[/h1]
+
+[u]Compatible[/u] : Game version 1.2.*, 1.3.* and 1.4.*
 
 EN : This little mod changes the gameplay by enlarging the total number of planets from 5 to 100.
 FR : Ce petit mode change le gameplay en élargissant le nombre total de planète de 5 à 100.
@@ -52,9 +52,9 @@ Another Mod :
 
 ```
 [h1]-_Sector Planet to 50_-[/h1]
-[h1]-___Gameplay Mod___-[/h1]
-[h1]-___Stellaris Verions 1.4.*___-[/h1]
 [h1]-___Mod Verions 1.0.6___-[/h1]
+
+[u]Compatible[/u] : Game version 1.2.*, 1.3.* and 1.4.*
 
 EN : This little mod changes the gameplay by enlarging the total number of planets from 5 to 50.
 FR : Ce petit mode change le gameplay en élargissant le nombre total de planète de 5 à 50.
@@ -74,7 +74,7 @@ Another Mod :
 
 ```
 [h1]-_Force Clear Crisis Event_-[/h1]
-[h1]-___Mod Verions 0.1.0___-[/h1]
+[h1]-___Mod Verions 0.1.1___-[/h1]
 
 [u]Compatible[/u] : Game version 1.2.*, 1.3.* and 1.4.*
 
