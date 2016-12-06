@@ -1,0 +1,7 @@
+l_french:
+ edict_small_increase_controllable_planet:0 "Petite augmentation de la limite des planètes centrales contrôlables"
+ edict_small_increase_controllable_planet_desc:0 "Nombre de capacités planétaires contrôlées légèrement augmentées"
+ edict_medium_increase_controllable_planet:0 "Moyenne augmentation de la limite des planètes centrales contrôlables"
+ edict_medium_increase_controllable_planet_desc:0 "Nombre de capacités planétaires contrôlées bien augmentées"
+ edict_large_increase_controllable_planet:0 "Grande augmentation de la limite des planètes centrales contrôlables"
+ edict_large_increase_controllable_planet_desc:0 "Nombre de capacités planétaires contrôlées grandement augmentées"

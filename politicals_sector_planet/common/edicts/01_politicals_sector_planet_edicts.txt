@@ -1,0 +1,166 @@
+############################
+#
+# Politicals Sector Planet
+# 
+# Written by lquattro
+#
+############################
+
+country_edict = {
+   # Name of edict
+   name = "small_increase_controllable_planet"
+
+   # Edict effects for all
+   modifier = {
+      country_core_sector_system_cap = 5 
+   }
+
+   # Edict effects for special ethic owner
+#   modifier = {
+#      country_core_sector_system_cap = 10 
+#      owner = {
+#         OR = {
+#            # Pacifist Democracy
+#            has_ethic = moral_democracy
+#            # Advanced Pacifist Democracy
+#            has_ethic = irenic_democracy
+#            # Pacifist Oligarchy
+#            has_ethic = peaceful_bureaucracy
+#            # Advanced Pacifist Oligarchy
+#            has_ethic = irenic_protectorate
+#            # Pacifist Autocracy
+#            has_ethic = enlightened_monarchy
+#            # Advanced Pacifist Autocracy
+#            has_ethic = irenic_monarchy
+#         }
+#      }
+#   }
+   
+   # The cost of influence for this edict.
+   influence_cost = 0.5
+
+   # The conditions to visible it.
+   potential = {
+   }
+   
+   # The conditions to activate it.
+   allow = {
+      NOR = {
+         has_country_edict = medium_increase_controllable_planet
+         has_country_edict = large_increase_controllable_planet
+      }
+   }
+   
+   # How likely(probable) the AI is to take this edict.
+   ai_weight = {
+      weight = 0
+   }
+
+   # Scripted effect
+   effect = {
+   } 
+}
+
+country_edict = {
+   # Name of edict
+   name = "medium_increase_controllable_planet"
+
+   # Edict effects for all
+#   modifier = {
+#      country_core_sector_system_cap = 20
+#   }
+
+   # Edict effects for special ethic owner
+   modifier = {
+      pop_happiness = -0.1
+      owner = {
+         NOR = {
+            # Pacifist Democracy
+            has_ethic = moral_democracy
+            # Advanced Pacifist Democracy
+            has_ethic = irenic_democracy
+            # Pacifist Oligarchy
+            has_ethic = peaceful_bureaucracy
+            # Advanced Pacifist Oligarchy
+            has_ethic = irenic_protectorate
+            # Pacifist Autocracy
+            has_ethic = enlightened_monarchy
+            # Advanced Pacifist Autocracy
+            has_ethic = irenic_monarchy
+         }
+      }
+   }
+   
+   # The cost of influence for this edict.
+   influence_cost = 1
+   
+   # The conditions to activate it.
+   allow = {
+      NOR = {
+         has_country_edict = small_increase_controllable_planet
+         has_country_edict = large_increase_controllable_planet
+      }
+   }
+   
+   # How likely(probable) the AI is to take this edict.
+   ai_weight = {
+      weight = 0
+   }  
+   
+   # The technologies required
+   prerequisites = {
+#      "tech_repeatable_improved_core_system_cap"
+   }
+}
+
+country_edict = {
+   # Name of edict
+   name = "large_increase_controllable_planet"
+
+   # Edict effects
+   modifier = {
+      country_core_sector_system_cap = 70 
+   }
+
+   # Edict effects for special ethic owner
+#   modifier = {
+#      pop_happiness = -0.5 
+#      owner = {
+#         NOR = {
+#            # Pacifist Democracy
+#            has_ethic = moral_democracy
+#            # Advanced Pacifist Democracy
+#            has_ethic = irenic_democracy
+#            # Pacifist Oligarchy
+#            has_ethic = peaceful_bureaucracy
+#            # Advanced Pacifist Oligarchy
+#            has_ethic = irenic_protectorate
+#            # Pacifist Autocracy
+#            has_ethic = enlightened_monarchy
+#            # Advanced Pacifist Autocracy
+#            has_ethic = irenic_monarchy
+#         }
+#      }
+#   }
+   
+   # The cost of influence for this edict.
+   influence_cost = 2
+      
+   # The conditions to activate it
+   allow = {
+      NOR = {
+         has_country_edict = medium_increase_controllable_planet
+         has_country_edict = small_increase_controllable_planet
+      }
+   }
+   
+   # How likely(probable) the AI is to take this edict.
+   ai_weight = {
+      weight = 0
+   }  
+   
+   # The technologies required
+   prerequisites = {
+#      "tech_repeatable_improved_core_system_cap"
+   }
+}

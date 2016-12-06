@@ -1,0 +1,7 @@
+l_english:
+ edict_small_increase_controllable_planet:0 "Small increase the limit of core planets controllable"
+ edict_small_increase_controllable_planet_desc:0 "Number of controlled planetary capacities slightly increased"
+ edict_medium_increase_controllable_planet:0 "Medium increase the limit of core planets controllable"
+ edict_medium_increase_controllable_planet_desc:0 "Number of controlled planetary capacities goodly increased"
+ edict_large_increase_controllable_planet:0 "Large increase the limit of core planets controllable "
+ edict_large_increase_controllable_planet_desc:0 "Number of controlled planetary capacities greatly increased"

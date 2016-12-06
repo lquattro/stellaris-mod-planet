@@ -9,6 +9,7 @@ the source code for this mods :
 * [Micro System](#micro-system)
 * [SECTOR_PLANET_TO_50](#sector_planet_to_50)
 * [SECTOR_PLANET_TO_100](#sector_planet_to_100)
+* [Politicals Sector Planet](#politicals_sector_planet)
 * [Force Clear Crisis Event](#force-clear-crisis-event)
 
 ## Metal Color
@@ -94,6 +95,28 @@ the source code for this mods :
 
 ![Screenshot1](sector_planet_100_screenshot.png)
 ![Screenshot2](sector_planet_100_screenshot2.jpg)
+
+---
+
+## Politicals Sector Planet
+
+_This mod is working progress! It's a Alpha._
+
+_Mod Add :_ 
+ - 3 edicts : small, medium, large increase (but happiness is decreased for some types of government : details in game)
+ - french and english translation edicts
+
+_Dev Feacture :_ 
+ - Chain events boost capacity "cap sector planet" 
+ - Chain events delete decreased happiness
+
+_EN :_ This mode adds additional gameplay on the sectors of planets and the political management of the edicts.
+_FR :_ Ce mode permet d'ajouter un gameplay suplémentaire sur les secteurs de planêtes et la gestion politique des décrets. 
+
+### STATS
+
+* Mod : GamePlay
+* Status Development : ALPHA
 
 ---
 
